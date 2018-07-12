@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="20px" viewBox="0 0 65 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>tag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="105.990495%" y1="100%" x2="-9.25025993%" y2="-1.78063662%" id="linearGradient-1">
+            <stop stop-color="#FF7328" offset="0%"></stop>
+            <stop stop-color="#FF3E3E" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L65,0 L65,11 C65,15.9705627 60.9705627,20 56,20 L0,20 L0,0 Z" id="path-2"></path>
+        <linearGradient x1="108.219606%" y1="122.037412%" x2="-6.98612672%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FF8C28" stop-opacity="0.584663723" offset="0%"></stop>
+            <stop stop-color="#FF3E3E" stop-opacity="0.725713315" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tag">
+            <g>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M51.3287424,3.84205263 C53.2299638,-0.719315789 51.092524,-3 44.9164231,-3 C35.6522718,-3 38.7875855,19.9081738 32.0271691,16.421818 C25.2667526,12.9354623 18.3323366,-3 5.60999391,11.4218288 C-2.87156789,21.0363814 -5.08684559,24.0968978 -1.0358392,20.6033782 L51.3287424,20.6033782 L51.3287424,3.84205263 Z" id="Path-2" fill="url(#linearGradient-4)" style="mix-blend-mode: multiply;" opacity="0.300000012" mask="url(#mask-3)" transform="translate(24.500000, 9.500000) scale(-1, 1) translate(-24.500000, -9.500000) "></path>
+                <path d="M50.7869293,10.0594631 C51.6207173,3.95517454 50.0074219,1.31845617 45.9470429,2.14930804 C39.8564745,3.39558585 38.1446214,19.5876993 31.3296787,17.5200677 C24.514736,15.452436 10.4748104,11.5328314 4.69943522,14.5547547 C0.849185095,16.5693701 -1.38395998,18.3844519 -2,20 L50.7869293,20 L50.7869293,10.0594631 Z" id="Path-2-Copy-4" fill="url(#linearGradient-4)" mask="url(#mask-3)" transform="translate(24.500000, 11.000000) scale(-1, 1) translate(-24.500000, -11.000000) "></path>
+            </g>
+            <text id="我的收益" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#FFFFFF">
+                <tspan x="9" y="14">我的收益</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

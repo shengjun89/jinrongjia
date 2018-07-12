@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>nav_icon03</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_icon03" fill="#FF6C22">
+            <g id="Page-1" transform="translate(1.000000, 2.000000)">
+                <path d="M1.881,0.0007 C0.842,0.0007 0,0.8417 0,1.8807 L0,6.3817 L0,20.2137 L0,25.3607 C0,26.3987 0.842,27.2407 1.881,27.2407 L28.439,27.2407 C29.479,27.2407 30.32,26.3987 30.32,25.3607 L30.32,6.3817 C30.32,5.3427 29.479,4.5007 28.439,4.5007 L2.843,4.5007 L2.843,3.5477 C2.843,3.1587 3.158,2.8427 3.548,2.8427 L21.858,2.8427 L21.858,1.8807 C21.858,0.8417 21.017,0.0007 19.978,0.0007 L1.881,0.0007 Z M24.004,15.8707 C24.004,14.9117 24.781,14.1327 25.74,14.1327 C26.7,14.1327 27.477,14.9117 27.477,15.8707 C27.477,16.8297 26.7,17.6077 25.74,17.6077 C24.781,17.6077 24.004,16.8297 24.004,15.8707 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

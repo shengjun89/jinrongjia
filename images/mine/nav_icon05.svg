@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>nav_icon05</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="-5.73491792%" y2="5.0082114%" id="linearGradient-1">
+            <stop stop-color="#FF5E5E" offset="0%"></stop>
+            <stop stop-color="#FFB700" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_icon05" fill="url(#linearGradient-1)">
+            <g id="Group-8" transform="translate(4.000000, 4.000000)">
+                <path d="M16,4.83018868 C9.83108355,4.83018868 4.83018868,9.83108355 4.83018868,16 C4.83018868,22.1689165 9.83108355,27.1698113 16,27.1698113 C22.1689165,27.1698113 27.1698113,22.1689165 27.1698113,16 C27.1698113,9.83108355 22.1689165,4.83018868 16,4.83018868 Z M16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 Z" id="Rectangle-17" fill-rule="nonzero"></path>
+                <path d="M11.404732,11.404732 L20.5774946,11.404732 L20.5774946,20.5774946 L11.404732,20.5774946 L11.404732,11.404732 Z M14.4623195,14.4623195 L14.4623195,17.5199071 L17.5199071,17.5199071 L17.5199071,14.4623195 L14.4623195,14.4623195 Z" id="Combined-Shape" transform="translate(15.991113, 15.991113) rotate(-315.000000) translate(-15.991113, -15.991113) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>iconBottomNor02</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="iconBottomNor02" stroke="#000000">
+            <g id="Group" transform="translate(3.000000, 4.000000)">
+                <path d="M0,0 L9.52941176,-1.77635684e-15 C13.9152024,-2.58201351e-15 17.4705882,3.55538581 17.4705882,7.94117647 L17.4705882,7.94117647 C17.4705882,12.3269671 13.9152024,15.8823529 9.52941176,15.8823529 L9.40336134,15.8823529 C4.94795496,15.8823529 1.33613445,12.2705324 1.33613445,7.81512605 L1.33613445,4.36764706 L1.33613445,3.19671747" id="Rectangle-9" stroke-width="2.52631579" opacity="0.763677542" transform="translate(8.735294, 7.941176) scale(-1, -1) translate(-8.735294, -7.941176) "></path>
+                <rect id="Rectangle" stroke-width="1.68421053" transform="translate(8.263520, 8.177441) rotate(-315.000000) translate(-8.263520, -8.177441) " x="6.41486068" y="6.35681115" width="3.69731816" height="3.64126057"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

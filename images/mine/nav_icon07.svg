@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>nav_icon07</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="106.067183%" y1="105.859166%" x2="17.8423274%" y2="6.51529175%" id="linearGradient-1">
+            <stop stop-color="#0595BD" offset="0%"></stop>
+            <stop stop-color="#2CCFDE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_icon07" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group" transform="translate(7.000000, 4.000000)">
+                <path d="M13,18 C8.02943725,18 4,13.9705627 4,9 C4,4.02943725 8.02943725,0 13,0 C17.9705627,0 22,4.02943725 22,9 C22,13.9705627 17.9705627,18 13,18 Z M13,12.6666667 C15.0250441,12.6666667 16.6666667,11.0250441 16.6666667,9 C16.6666667,6.97495592 15.0250441,5.33333333 13,5.33333333 C10.9749559,5.33333333 9.33333333,6.97495592 9.33333333,9 C9.33333333,11.0250441 10.9749559,12.6666667 13,12.6666667 Z" id="Oval-11"></path>
+                <path d="M20.6666667,26.6666667 L20.6666667,26.3333333 C20.6666667,22.0991503 17.2341831,18.6666667 13,18.6666667 C8.76581692,18.6666667 5.33333333,22.0991503 5.33333333,26.3333333 L5.33333333,26.6666667 L20.6666667,26.6666667 Z M13,13.3333333 C20.1797017,13.3333333 26,19.1536316 26,26.3333333 L26,32 L0,32 L0,26.3333333 C0,19.1536316 5.82029825,13.3333333 13,13.3333333 Z" id="Rectangle-21" style="mix-blend-mode: multiply;"></path>
+            </g>
+        </g>
+    </g>
+</svg>
